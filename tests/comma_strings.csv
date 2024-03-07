@@ -1,0 +1,3 @@
+census_year,block_id,property_id,base_property_id,building_address,clue_small_area,business_address,trading_name,industry_code,industry_description,seating_type,number_of_seats,longitude,latitude
+2020,369,103507,103507,Court House Hotel 86-90 Errol Street NORTH MELBOURNE VIC 3051,North Melbourne,Court House Hotel 86-90 Errol Street NORTH MELBOURNE VIC 3051,Court House Hotel,4520,"Pubs, Taverns and Bars",Seats - Indoor,100,144.94996,-37.80288
+2020,42,101156,101155,535 Bourke Street MELBOURNE VIC 3000,Melbourne (CBD),"Shop 1B, 535 Bourke Street MELBOURNE VIC 3000",Doughboys Doughnuts,4511,Cafes and Restaurants,Seats - Outdoor,24,144.95781,-37.81637
